@@ -1,0 +1,40 @@
+[
+    {
+        "name": "Imperial Hotel",
+        "imgurl": [
+            "./images/Delhi/Hotels/ImperialHotel/budget-room.jpg",
+            "./images/Delhi/Hotels/ImperialHotel/lobby.jpg",
+            "./images/Delhi/Hotels/ImperialHotel/dining.jpg"
+        ],
+        "price": 3000,
+        "location": "Delhi",
+        "type": "non deluxe",
+        "count": 2
+    },
+    {
+        "name": "ITC Mauria",
+        "imgurl": [
+            "./images/Delhi/Hotels/ITCMaurya/budget-room.jpg",
+            "./images/Delhi/Hotels/ITCMaurya/lobby.jpg",
+            "./images/Delhi/Hotels/ITCMaurya/dining.jpg"
+        ],
+        "price": 3000,
+        "location": "Delhi",
+        "type": "non deluxe",
+        "count": 2
+    },
+    {
+        "name": "Taj Palace",
+        "imgurl": [
+            "./images/Delhi/Hotels/TajPalace/budget-room.jpg",
+            "./images/Delhi/Hotels/TajPalace/lobby.jpg",
+            "./images/Delhi/Hotels/TajPalace/dining.jpg"
+        ],
+        "price": 3000,
+        "location": "Delhi",
+        "type": "non deluxe",
+        "count": 2
+    }
+
+
+]
