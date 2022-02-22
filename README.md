@@ -13,4 +13,5 @@ from here all in book app\
 4>npm install react-router-dom\
 5>npm install react-bootstrap\
 6>npm install moment\
+backend\
 7>npm i axios mongoose express
