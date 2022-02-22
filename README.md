@@ -1,7 +1,7 @@
-pre requsites-\
+pre requisites-\
 have node installed\
 have nodemon installed\
-have react pre requsites installed. (if u want to create a new react app you should be able to do it...)\
+have react pre requisites installed. (if u want to create a new react app you should be able to do it...)\
 
 
 Steps to make this project work-
